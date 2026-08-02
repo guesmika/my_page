@@ -1,0 +1,352 @@
+[
+    {
+        "citation": "O. Meguenche and K. GUESMI, D. Gozim, LEE-Optimized Control and Nonlinear Dynamics Stabiliza- tion for DC–DC Boost Converters, International Conference on Advanced Electrical Engineering, Algiers (Algeria), 21-23 November 2026",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic70.pdf"
+    },
+    {
+        "citation": "N. Issaad, A. Garmat, K. GUESMI, Task-space Fuzzy PID Control for a 3-DOF Manipulator, Proceedings of the International Conference on Computational Engineering and Intelligent Systems, Boumerdes, Algeria, 21-23 November 2025.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic69.pdf"
+    },
+    {
+        "citation": "M. Maouche, A. Garmat, K. GUESMI, Enhanced Fractional-Order Controller for a Differential Drive Mobile Trolley, Proceedings of the IFAC Conference on Fractional Differentiation and its Applications, Algiers, Algeria, 16-18 December 2025.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic68.pdf"
+    },
+    {
+        "citation": "K. Saoudi, K. Bdirina, K. GUESMI, M. Khebal, Cascade Fractional-Order Finite-Time Synergetic Controller for Mobile Robots, Proceedings of the IFAC Conference on Fractional Differentiation and its Applications, Algiers, Algeria, 16-18 December 2025.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic67.pdf"
+    },
+    {
+        "citation": "A. N.-E. Bendenidina, K. GUESMI, A. Rebai, A. Y. Damani, Adaptive Fuzzy type-2 FTSMC for UMS, Proceedings of the Electrical Engineering International Conference, Bejaia, Algeria, 2-3 December 2025.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic66.pdf"
+    },
+    {
+        "citation": "M. E. Hedroug, K. Bdirina, K. GUESMI, Identification of a Class of Affine Nonlinear Systems by TS Fuzzy Structure with Lyapunov based LMI Stability Analysis, Proceedings of the International Conference on Applied Automation and Industrial Diagnostics, Ghardaia, Algeria, 18-20 November 2025.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic65.pdf"
+    },
+    {
+        "citation": "A. Garmat, K. GUESMI, Sliding mode control of flying-capacitor voltage in serial multi-cell DC-DC converters, Proceedings of the International Conference on Applied Automation and Industrial Diagnostics, Ghardaia, Algeria, 18-20 November 2025.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic64.pdf"
+    },
+    {
+        "citation": "A. Garmat, K. GUESMI, Deep Learning-Based Detection and Classification of Vine Diseases Using YOLO and CNN, Proceedings of the International Conference on Computational Engineering, Artificial Intelligence and Smart Systems, Djanet, Algeria, 29-31 October 2025.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic63.pdf"
+    },
+    {
+        "citation": "K. Saoudi, K. GUESMI, K. Bdirina, Optimized Super Twisting Sliding Mode Controller for Robot Manipulators, Proceedings of the International Conference on Systems and Control, Batna, Algeria, 3-5 November 2024.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic62.pdf"
+    },
+    {
+        "citation": "I. Kadouri, K. GUESMI, A. Hamzaoui, Poincaré map Identification of Alpazur oscillator with three states Using SINDy Method, Proceedings of the International Conference on Electrical Engineering and Automatic Control, Setif, Algeria, 12-14 May 2024.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic61.pdf"
+    },
+    {
+        "citation": "K. Saoudi, K. GUESMI, K. Bdirina, Design and Implementation of a Nonlinear Centralized Controller: Underactuated System Case Study, Proceedings of the International Conference on Electrical Engineering and Automatic Control, Setif, Algeria, 12-14 May 2024.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic60.pdf"
+    },
+    {
+        "citation": "B. Hamidouche, K. GUESMI, N. Essounbouli, Delayed Sliding Mode Control Design for Chaotic Systems, Proceedings of the Electrical Engineering International Conference, Bejaia, Algeria, 5-6 December 2023.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic59.pdf"
+    },
+    {
+        "citation": "I. Kadouri, K. GUESMI, A. Hamzaoui, Poincaré map Identification of Switched Nonlinear Systems Using SINDy Method, Proceedings of the International Conference on Electrical Engineering and Advanced Technologies, Batna, Algeria, 5-7 November 2023.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic58.pdf"
+    },
+    {
+        "citation": "B. Hamidouche, K. GUESMI, N. Essounbouli, Control and Stabilization of Chaotic Systems using Lyapunov Stability Theory, Proceedings of the International Conference on Electrical Engineering and Advanced Technologies, Batna, Algeria, 5-7 November 2023.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic57.pdf"
+    },
+    {
+        "citation": "M.-E. Hedroug, E.-K. Bdirina, K. GUESMI, Fuzzy Predictive Controller for Trajectory Tracking of Differential-Drive Mobile Robot, Proceedings of the International Conference on Electronics, Energy and Measurement, Medea, Algeria, 28-30 November 2023.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic56.pdf"
+    },
+    {
+        "citation": "B. Hamidouche, K. GUESMI, N. Essounbouli, Time Delayed Sliding Mode Stabilization of Chaotic Systems, Proceedings of the International Conference on Electrical Engineering & Renewable Energies Systems, Bechar, Algeria, 24-26 October 2023.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic55.pdf"
+    },
+    {
+        "citation": "M. Badaoui, K. GUESMI, A. Rebai, On the Bifurcation Analysis of Inertia Wheel Pendulum System, Proceedings of the International Conference on Electrical Engineering, Algiers, Algeria, 9-10 May 2023.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic54.pdf"
+    },
+    {
+        "citation": "B. Hamidouche, K. GUESMI, N. Essounbouli, Sliding Mode Control and Structural Stabilization of the Rossler System, Proceedings of the International Conference on Electrical Engineering, Algiers, Algeria, 9-10 May 2023.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic53.pdf"
+    },
+    {
+        "citation": "A. Bendenidina, K. GUESMI, A. Rebai, Fuzzy Fast Terminal Sliding Mode Controller for Second-Order Underactuated Mechanical Systems, Proceedings of the International Conference on Advances in Electronics, Control and Communication Systems, Blida, Algeria, 6-7 March 2023.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic52.pdf"
+    },
+    {
+        "citation": "B. Hamidouche, K. GUESMI, N. Essounbouli, Lyapunov exponent-based PI optimization for the delayed feedback control of chaos, Proceedings of the International Conference of Advanced Technology in Electronic and Electrical Engineering, M'sila, Algeria, 26-27 November 2022.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic51.pdf"
+    },
+    {
+        "citation": "K. Saoudi, K. Bdirina, K. GUESMI, Model Predictive Sliding Mode Control for a Class of Affine Nonlinear Systems, Proceedings of the International Conference of Advanced Technology in Electronic and Electrical Engineering, M'sila, Algeria, 26-27 November 2022.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic50.pdf"
+    },
+    {
+        "citation": "M. GUESMI, K. GUESMI, S. Harzallah, B. Benchikh, Detection of crack orientation using the nondestructive testing by eddy current, Proceedings of the International Seminar in Industrial Engineering and Applied Mathematics, Skikda, Algeria, 23-24 October 2022.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic49.pdf"
+    },
+    {
+        "citation": "M. GUESMI, K. GUESMI, S. Harzallah, B. Benchikh, Numerical analysis of 2D crack orientation detection using the particle swarm optimization, Proceedings of the International Conference on Artificial Intelligence in Renewable Energetic Systems, Tamanrasset, Algeria, 20-22 November 2022.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic48.pdf"
+    },
+    {
+        "citation": "K. Saoudi, M. Z. Ghellab, K. GUESMI, K. Bdirina, Adaptive Fuzzy Sliding Mode Control of TRMS, Proceedings of the International Multi-Conference on Systems, Signals and Devices, Setif, Algeria, 6-10 May 2022.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic47.pdf"
+    },
+    {
+        "citation": "R. Behloul, M. Boudiaf, K. GUESMI, L. Mazouz, Experimental Study of PWM Based Hysteresis Controller and Amplifier Regulator for a DC/DC Converter, Proceedings of the International Multi-Conference on Systems, Signals and Devices, Setif, Algeria, 6-10 May 2022.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic46.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, Asymptotic stabilization of fractional order fuzzy time-varying delay systems, Proceedings of the Global Congress on Electrical Engineering, Valencia, Spain, 10-12 December 2021.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic45.pdf"
+    },
+    {
+        "citation": "A. Boulifa, K. GUESMI, K. Bdirina, Enhanced Observed Predictive Control For Linear Systems, Proceedings of the International Conference on Electronics, Artificial Intelligence and New Technologies, Oum el Bouaghi, Algeria, 8-9 December 2021.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic44.pdf"
+    },
+    {
+        "citation": "K. Bdirina, K. GUESMI, D. Elottri, L. Belkacemi, Enhanced Nonlinear Sliding Mode Control, Proceedings of the International Conference on Electronics, Artificial Intelligence and New Technologies, Oum el Bouaghi, Algeria, 8-9 December 2021.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic43.pdf"
+    },
+    {
+        "citation": "B. Hamidouche, K. GUESMI, N. Essounbouli, Control and Stabilization of Dynamical Chaotic Systems, Proceedings of the International Conference on Engineering and Emerging Technologies, Istanbul, Turkey, 27-28 October 2021.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic42.pdf"
+    },
+    {
+        "citation": "K. Rayane, A. Benalia, S. S. Refaat, M. Trabelsi, K. GUESMI, H. Abu-Rub, An Effective Super-Twisting Control of a Standalone PUC5 Inverter, Proceedings of the Annual Conference of the IEEE Industrial Electronics Society, Singapore, 18-21 October 2020.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic41.pdf"
+    },
+    {
+        "citation": "K. Rayane, M. Bougrine, A. Benalia, K. GUESMI, Development of a Stand-Alone Connected PV System Based on Packe U Cell Inverter, Proceedings of the International Conference on Electrical Engineering and Control Applications, Constantine, Algeria, 17-19 December 2019.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic40.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, M. Bougrine, Design of an adaptive fuzzy backstepping synergetic control scheme for a class of strict-feedback nonlinear systems, Proceedings of the International Conference on Electrical Engineering and Control Applications, Constantine, Algeria, 17-19 December 2019.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic39.pdf"
+    },
+    {
+        "citation": "K. Rayane, M. Bougrine, A. Benalia, K. GUESMI, Sliding mode control of a three-phase inverter with an output LC filter, Proceedings of the International Conference on Applied Smart Systems, Medea, Algeria, 24-25 November 2018.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic38.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, On the design of robust adaptive fuzzy sliding mode controller for nonlinear uncertain systems with hysteresis input, Proceedings of the International Conference on Control Engineering & Information Technology, Istanbul, Turkey, 25-27 October 2018.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic37.pdf"
+    },
+    {
+        "citation": "M.-N. Hefeid, K. GUESMI, Z. Madni, On robust suppressing of nonlinear phenomena in DC/DC converter: comparative study, Proceedings of the International Conference on Automatic Control, Telecommunications & signals, Annaba, Algeria, 11-12 December 2017.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic36.pdf"
+    },
+    {
+        "citation": "Z. Madni, K. GUESMI, A. Benalia, Backstepping control of abnormal behaviours in DC-DC Boost converter, Proceedings of the International Conference on Electrical Engineering & Control Applications, Constantine, Algeria, 21-22 November 2017.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic35.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, Z. Madni, On the stabilization of DC-DC converters using non-quadratic approaches, Proceedings of the International Conference on Electrical Engineering & Control Applications, Constantine, Algeria, 21-22 November 2017.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic34.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, B. Hemici, Design of an adaptive fuzzy sliding mode controller for nonlinear hysteretic systems, Proceedings of the International Conference on Electrical Engineering, Boumerdes, Algeria, 13-15 December 2015.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic33.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, D. Gozim, B. Hemici, Adaptive Fuzzy Synergetic Control of Nonlinear Systems with Unknown Backlash Hysteresis, Proceedings of the 19th International Conference on Systems Theory, Control & Computing, Cheile Gradistei, Romania, 14-16 October 2015.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic32.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, B. Hemici, Fuzzy identification and control of a piezoelectric actuator, Proceedings of the International Conference on Control, Engineering & Information Technology, Tlemcen, Algeria, 25-27 May 2015.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic31.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, B. Hemici, Identification of the PEA hysteresis property using a fractional order model, Proceedings of the International Conference on Sciences and Techniques of Automatic Control & Computer Engineering, Hammamet, Tunisia, 21-23 December 2014.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic30.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, B. Hemici, Design of an optimized fractional order fuzzy PID controller for a piezoelectric actuator, Proceedings of the International Conference on Sciences and Techniques of Automatic Control & Computer Engineering, Hammamet, Tunisia, 21-23 December 2014.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic29.pdf"
+    },
+    {
+        "citation": "K. GUESMI, DC-DC Converters a challenging field in automatic control, Plenary session in International Workshop on Advanced Control, Guelma, Algeria, 3-4 November 2014.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic28.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, A. Hamzaoui, B. Hemici, RIM: An Education Platform for Recursive Identification Methods, Proceedings of the International Workshop on Advanced Control, Guelma, Algeria, 3-4 November 2014.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic27.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, B. Hemici, Design of a fractional order fuzzy PID controller for a piezoelectric actuator using ACO algorithm, Proceedings of the International Conference on Electrical Engineering & Control Applications, Constantine, Algeria, 18-20 November 2014.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic26.pdf"
+    },
+    {
+        "citation": "A. Khoudiri, K. GUESMI, D. Mahi, Optimized Sliding Mode Control of DC-DC Boost Converter for Photovoltaic System, Proceedings of the International Conference on Electrical Engineering & Control Applications, Constantine, Algeria, 18-20 November 2014.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic25.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, B. Hemici, On the identification of piezoelectric actuators: A comparative study, Proceedings of the International Conference on Automatic Control Theory & Application, Bangkok, Thailand, 26-28 April 2014.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic24.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, B. Hemici, Identification of the PEA hysteresis property using a minimum variance scheme, Proceedings of the International Conference on Electrical & Electronics Engineering, Antalya, Turkey, 21-23 April 2014.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic23.pdf"
+    },
+    {
+        "citation": "D. Gozim, K. GUESMI, O. Mahgoub, D. Mahi, Simulation and Experimental Investigation of Nonlinear Phenomena in Boost Converter, Proceedings of the Conférence sur les Systèmes Dynamiques Complexes, Algiers, Algeria, 10-13 June 2013.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic22.pdf"
+    },
+    {
+        "citation": "A. Rebai, K. GUESMI, B. Hemici, Modeling of hysteresis property in piezoelectric actuators: A survey, Proceedings of the International Conference on Electrical Engineering & Automatic Control, Setif, Algeria, 24-26 November 2013.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic21.pdf"
+    },
+    {
+        "citation": "D. Gozim, K. GUESMI, D. Mahi, Experimental Study of the Boost Converter under Current Mode Control, Proceedings of the International Conference on Electrical Engineering & Automatic Control, Setif, Algeria, 24-26 November 2013.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic20.pdf"
+    },
+    {
+        "citation": "M. Boudiaf, K. GUESMI, Implementation of PWM Based Hysteric Controller for Boost Converter, Proceedings of the IEEE International Conference on Systems & Control, Algiers, Algeria, 29-31 October 2013.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic19.pdf"
+    },
+    {
+        "citation": "A. Khoudiri, K. GUESMI, A. Hamzaoui, N. Essounbouli, D. Mahi, Optimized Sliding Mode Control for DC-DC Converters Using Simplex-PSO Techniques, Proceedings of the IEEE International Conference on Systems & Control, Algiers, Algeria, 29-31 October 2013.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic18.pdf"
+    },
+    {
+        "citation": "A. Khoudiri, K. GUESMI, A. Hamzaoui, N. Essounbouli, D. Mahi, Modeling of DC-DC Converters based on Fibonacci-Horner Theorem, Proceedings of the IEEE International Conference on Systems & Control, Algiers, Algeria, 29-31 October 2013.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic17.pdf"
+    },
+    {
+        "citation": "A. Khoudiri, K. GUESMI, D. Mahi, DC-DC Converters Modelling Approach Using Spectral Decomposition Theorem, Proceedings of the 8th IFAC Power Plant & Power System Control Symposium, Toulouse, France, 2-5 September 2012.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic16.pdf"
+    },
+    {
+        "citation": "D. Gozim, K. GUESMI, D. Mahi, Optimized PI controller for DC-DC converters, Proceedings of the 12th International conference on Sciences and Techniques of Automatic control & computer engineering, Sousse, Tunisia, 18-20 December 2011.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic15.pdf"
+    },
+    {
+        "citation": "M. Elbar, M. O. Mahmoudi, K. GUESMI, B. Naas, A. Gaafazi, Power Quality Improvement Using Four Leg Three-level Inverter and Cross Vector Theory, Proceedings of the International Symposium On Environment Friendly Energies in Electrical Applications, Ghardia, Algeria, 2-4 November 2010.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic14.pdf"
+    },
+    {
+        "citation": "M. Elbar, M. O. Mahmoudi, B. Naas, K. GUESMI, A. Gaafazi, A Carrier-Based PWM Techniques Applied to a Three-level Four-Leg Inverter for Use as a Shunt Active Power Filter, Proceedings of the International Conference on Electrical Engineering, Batna, Algeria, 11-13 October 2010.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic13.pdf"
+    },
+    {
+        "citation": "D. Gozim, K. GUESMI, M. Djennah, D. Mahi, Numerical Modeling a Conductor Metal Enclosure Covered With a Dielectric Layer Illuminated By an Electromagnetic Wave, Proceedings of the International Conference on Electrical Engineering Design & Technologies, Sousse, Tunisia, 31 October - 2 November 2009.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic12.pdf"
+    },
+    {
+        "citation": "K. GUESMI, N. Kacemi, I. Nessouri, A. Hamzaoui, N. Essounbouli, DC-DC Converter Fuzzy Modelling: Validation, Proceedings of the International Conference on Sciences and Techniques of Automatic Control & Computer Engineering, Hammamet, Tunisia, 20-22 December 2009.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic11.pdf"
+    },
+    {
+        "citation": "K. GUESMI, A. Hamzaoui, J. Zaytoon, Fuzzy Controller Synthesis for a Dc-Dc Converter, Proceedings of the IEEE Conference on Decision & Control, Shanghai, China, 16-18 December 2009.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic10.pdf"
+    },
+    {
+        "citation": "K. GUESMI, D. Gozim, D. Mahi, A. Hamzaoui, Dynamical ramp for nonlinear phenomena control in DC-DC converters, Proceedings of the International Conference on Electrical Engineering Design & Technologies, Sousse, Tunisia, 31 October - 2 November 2009.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic9.pdf"
+    },
+    {
+        "citation": "K. GUESMI, N. Essounbouli, A. Hamzaoui, DC-DC power converter: modeling and control survey, Proceedings of the International Conference on Electrical Engineering, Batna, Algeria, 7-8 November 2006.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic8.pdf"
+    },
+    {
+        "citation": "K. GUESMI, N. Essounbouli, N. Manamanni, A. Hamzaoui, J. Zaytoon, DC-DC converter current regulation and nonlinear phenomena suppressing, Proceedings of the IEEE International Conference on Control Application, Munich, Germany, 4-6 October 2006.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic7.pdf"
+    },
+    {
+        "citation": "K. GUESMI, N. Essounbouli, N. Manamanni, A. Hamzaoui, J. Zaytoon, An enhanced modelling approach for DC-DC converters, Proceedings of the IFAC Conference on Analysis & Control of Chaotic Systems, Reims, France, 28-30 June 2006.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic6.pdf"
+    },
+    {
+        "citation": "K. GUESMI, N. Essounbouli, Synthèse d'un contrôleur flou pour la régulation d'un convertisseur statique, Proceedings of the Journées Doctorales MACS, Lyon, France, 5-7 September 2005.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic5.pdf"
+    },
+    {
+        "citation": "N. Essounbouli, A. Hamzaoui, K. GUESMI, J. Zaytoon, A robust adaptive fuzzy controller for a class of non affine systems, Proceedings of the 17th IMACS World Congress, Paris, France, 11-15 July 2005.",
+        "doi": "",
+        "pdf": ""
+    },
+    {
+        "citation": "K. GUESMI, N. Manamanni, A. Hamzaoui, N. Essounbouli, J. Zaytoon, Non-linear phenomena shifting in DC-DC power converter by a fuzzy logic controller, Proceedings of the 17th IMACS World Congress, Paris, France, 11-15 July 2005.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic3.pdf"
+    },
+    {
+        "citation": "K. GUESMI, N. Essounbouli, N. Manamanni, A. Hamzaoui, J. Zaytoon, A fuzzy logic controller synthesis for a boost converter, Proceedings of the 16th IFAC World Congress, Prague, Czech Republic, 4-8 July 2005.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic2.pdf"
+    },
+    {
+        "citation": "K. GUESMI, N. Essounbouli, N. Manamanni, A. Hamzaoui, J. Zaytoon, Commande hybride par mode glissant flou appliquée à un moteur à induction, Proceedings of the Conférence Internationale Francophone de l'Automatique, Douze, Tunisia, 22-24 November 2004.",
+        "doi": "",
+        "pdf": "pdfs/intComs/ic1.pdf"
+    }
+]

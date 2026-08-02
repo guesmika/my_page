@@ -1,0 +1,123 @@
+[
+    {
+        "citation": "Y. SAHNOUNI, Design, Implementation and performance optimization of an automated aquaponics prototype, Master defended at University of Djelfa, A.Y. 2025/2026.",
+        "doi": "",
+        "pdf": "pdfs/masters/sahnouni.pdf"
+    },
+    {
+        "citation": "A. LOUIZINI, Energy-Aware NMPC and Hybrid Reactive Navigation for a Safe 5-DOF Autonomous Mobile Manipulator, Master defended at University of Boumerdes, A.Y. 2025/2026.",
+        "doi": "",
+        "pdf": "pdfs/masters/louizini.pdf"
+    },
+    {
+        "citation": "N. ISSAAD, Amélioration de la commande d’un bras de robot à 3 degrés de liberté, Master defended at University of Boumerdes, A.Y. 2024/2025.",
+        "doi": "",
+        "pdf": "pdfs/masters/issaad.pdf"
+    },
+    {
+        "citation": "M. MAOUCHE, Optimisation de la commande d’un robot mobile à deux degrés de liberté, Master defended at University of Boumerdes, A.Y. 2024/2025.",
+        "doi": "",
+        "pdf": "pdfs/masters/maouche.pdf"
+    },
+    {
+        "citation": "L. I. BOUKHEDDOUNI, Attraction Region Estimation of a Multi-Equilibrium System, Master defended at University of Djelfa, A.Y. 2023/2024.",
+        "doi": "",  
+        "pdf": "pdfs/masters/boukheddouni.pdf"
+    },
+    {
+        "citation": "H. H. -A. MESSAOUDI, Neural Pattern Recognition of Hand Writing, Master defended at University of Djelfa, A.Y. 2023/2024.",
+        "doi": "",
+        "pdf": "pdfs/masters/messaoudi.pdf"
+    },
+    {
+        "citation": "M. A. NEHAR, Stabilization of Delayed Systems, Master defended at University of Djelfa, A.Y. 2022/2023.",
+        "doi": "",
+        "pdf": "pdfs/masters/nehar.pdf"
+    },
+    {
+        "citation": "A. BOULIFA, Observed Predictive Control, Master defended at University of Djelfa, A.Y. 2019/2020.",
+        "doi": "",
+        "pdf": "pdfs/masters/boulifa.pdf"
+    },
+    {
+        "citation": "L. BELKACEMI, D. ELOTRI, Predictive Sliding Mode Control, Master defended at University of Djelfa, A.Y. 2019/2020.",
+        "doi": "",
+        "pdf": "pdfs/masters/belkacemi.pdf"
+    },
+    {
+        "citation": "H. CHOUNGACHE, A. KADRI, Model Predictive Control of Quadruple Tank Plant, Master defended at University of Djelfa, A.Y. 2018/2019.",
+        "doi": "",
+        "pdf": "pdfs/masters/choungache.pdf"
+    },
+    {
+        "citation": "A. GOUBAA, Stabilization of linear delayed systems, Master defended at University of Djelfa, A.Y. 2017/2018.",
+        "doi": "",
+        "pdf": "pdfs/masters/goubaa.pdf"
+    },
+    {
+        "citation": "B. HAMIDOUCHE, Fuzzy model based predictive control for nonlinear processes, Master defended at University of Djelfa, A.Y. 2017/2018.",
+        "doi": "",
+        "pdf": "pdfs/masters/hamidouche.pdf"
+    },
+    {
+        "citation": "M. DJEMOUAI, Stabilization by Non-quadratic Lyapunov Functions: Application to DC/DC converters, Master defended at University of Djelfa, A.Y. 2016/2017.",
+        "doi": "",
+        "pdf": "pdfs/masters/djemouai.pdf"
+    },
+    {
+        "citation": "M. -N. HEFEID, Variable structure control of energy converters, Master defended at University of Djelfa, A.Y. 2016/2017.",
+        "doi": "",
+        "pdf": "pdfs/masters/hefeid.pdf"
+    },
+    {
+        "citation": "S. AISSAT, Stability study of a converter with the Monodromy matrix, Master defended at University of Djelfa, A.Y. 2015/2016.",
+        "doi": "",
+        "pdf": "pdfs/masters/aissat.pdf"
+    },
+
+    {
+        "citation": "1. Z. MADNI, Optimized fuzzy control of a DC-DC converter, Magister defended at University of Djelfa, A.Y. 2014/2015.",
+        "doi": "",
+        "pdf": "pdfs/masters/madni.pdf"
+    },
+    {
+        "citation": "H. OUGISSI, Study of secure transmission by chaotic modulation, Magister defended at the University of Djelfa, A.Y. 2012/2013.",
+        "doi": "",
+        "pdf": "pdfs/masters/ougissi.pdf"
+    },
+    
+    {
+        "citation": "A. RABEHI, Study and simulation of the DS-OCDMA technique with two RC and RC + LO receivers using 1D optical codes, Master defended at University of Djelfa, A.Y. 2011/2012.",
+        "doi": "",
+        "pdf": "pdfs/masters/rabehi.pdf à reccuperer"
+    },
+    {
+        "citation": "W. SAIDAT, Adaptive robust control for electrical energy conversion, Master defended at University of Laghouat, A.Y. 2010/2011.",
+        "doi": "",
+        "pdf": "pdfs/masters/saidat.pdf"
+    },
+    {
+        "citation": "A. BOURAS, Control of DC-DC converter using multiple Lyapunov functions, Master defended at University of Laghouat, A.Y. 2010/2011.",
+        "doi": "",
+        "pdf": "pdfs/masters/bouras.pdf"
+    },
+    {
+        "citation": "M. Y. HALBAOUI, A. A. TAHIRI, Sliding mode control of a Boost converter, Engineer degree defended at University of Djelfa, A.Y. 2009/2010.",
+        "doi": "",
+        "pdf": "pdfs/masters/halbaoui.pdf"
+    },  
+    {
+        "citation": "N. KACEMI, I. NESSOURI, Fuzzy modeling of a DC-DC converter: application to the ”Boost” converter, Engineer degree defended at University of Djelfa, A.Y. 2008/2009.",
+        "doi": "",
+        "pdf": "pdfs/masters/kacemi.pdf"
+    },
+    {
+        "citation": "S. CHENIKRI, R. ZAIDI, Fuzzy sliding hybrid control: application to the asynchronous motor, Engineer degree defended at University of Djelfa, A.Y. 2007/2008.",
+        "doi": "",
+        "pdf": "pdfs/masters/chenikri.pdf"
+    }
+
+    
+
+
+]

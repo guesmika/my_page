@@ -1,0 +1,56 @@
+[
+    {
+        "module": "Advanced Programming in Python",
+        "level": "Master (Automatic Control and Systems)",
+        "institution": "University of Djelfa",
+        "period": "2025/26 - Today"
+    },
+    {
+        "module": "Applied Elements of IA ",
+        "level": "Master (Automatic Control and Systems)",
+        "institution": "University of Djelfa",
+        "period": "2025/26 - Today"
+    },
+        
+    {
+        "module": "Nonlinear Systems",
+        "level": "Master (Automatic Control and Systems)",
+        "institution": "University of Djelfa",
+        "period": "2008/09 - Today"
+    },
+    {
+        "module": "Intelligent Control",
+        "level": "Master (Automatic Control and Systems)",
+        "institution": "University of Djelfa",
+        "period": "2008/09 - Today"
+    },
+    {
+        "module": "LaTeX Scientific Writing Tool",
+        "level": "Master (Automatic Control and Systems)",
+        "institution": "University of Djelfa",
+        "period": "2017/18-2024/25"
+
+    },
+    {
+        "module": "Complex dynamical systems",
+        "level": "Master (Maintenance in Industrial Instrumentation)",
+        "institution": "University of Djelfa",
+        "period": "2009/10-2016/17"
+
+    },
+    {
+        "module": "Postgraduate courses (PhD): Nonlinear systems, Structural stability and nonlinear phenomena, Intelligent approaches for modeling and control, Suppression of nonlinear phenomena in switched mode power converters, Fuzzy control: recent trends in controlling chaotic systems.",
+        "level": "PhD (Automatic control)",
+        "institution": "University of Djelfa",
+        "period": "2019/20-2020/21"
+
+    },
+     {
+        "module": "Postgraduate courses (Magister): Dynamical systems, Intelligent control and robotics, Scientific ethics.",
+        "level": "Magister (Advanced automatic control)",
+        "institution": "University of Djelfa",
+        "period": "2012/13"
+
+    }
+
+]

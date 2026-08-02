@@ -1,0 +1,37 @@
+[
+    {
+        "citation": "M. Maouche, A. Garmat, K. GUESMI, Robust Trajectory Tracking Control of a Robotic Manipulator Using Fractional Order PID Controller, National Conference on Mechatronic Engineering, Boumerdes (Algeria), 12-13 October 2025.",
+        "doi": "",
+        "pdf": "pdfs/nComs/nc7.pdf"
+    },
+    {
+        "citation": "K. Saoudi, K. Bdirina, K. GUESMI, Type-2 Fuzzy Interpolated Linear Model-Based PD Control of a Two-Link Robotic Manipulator, National Conference on Innovation in Electronics and Telecommunication Technologies, Tebessa (Algeria), 23-24 September 2025.",
+        "doi": "",
+        "pdf": "pdfs/nComs/nc6.pdf"
+    },
+    {
+        "citation": "N. Issad, A. Garmat, K. GUESMI, Dynamic Precision Enhancement of 3-DOF Robotic Manipulator Using Computed Torque Control, National Conference on Materials Sciences and Engineering , Chlef (Algeria), 11-12 June 2025.",
+        "doi": "",
+        "pdf": "pdfs/nComs/nc5.pdf"
+    },
+    {
+        "citation": "K. Saoudi, K. GUESMI, K. Bdirina, Genetic Algorithm-Optimized Fractional-Order Sliding Mode Control for Wheeled Robots, National Conference on Emerging Trends in Engineering and Technology, Mascara (Algeria), 22-23 April 2025.",
+        "doi": "",
+        "pdf": "pdfs/nComs/nc4.pdf"
+    },
+    {
+        "citation": "K. Saoudi, K. Bdirina, K. GUESMI, Fault-Tolerant Generalized Predictive Control for DC Motor Systems, National Conference on Emerging Trends in Engineering and Technology, Mascara (Algeria), 22-23 April 2025.",
+        "doi": "",
+        "pdf": "pdfs/nComs/nc3.pdf"
+    },
+    {
+        "citation": "K. Saoudi, K. Bdirina, K. GUESMI, Constrained Model Predictive Control of a TRMS with Dynamic Prediction Horizon, National Conference on Computational Engineering, Artificial Intelligence and Smart Systems, Tamanrasset (Algeria), 10-12 December 2024.",
+        "doi": "",
+        "pdf": "pdfs/nComs/nc2.pdf"
+    },
+    {
+        "citation": "A. Garmat, K. GUESMI, Proportional control of the flying capacitors voltage of serial multi-cell DC- DC converter, National Conference on Industrial Engineering and Sustainable Development, Relizane (Algeria), 16-17 May 2023.",
+        "doi": "",
+        "pdf": "pdfs/nComs/nc1.pdf"
+    }
+]

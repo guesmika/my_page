@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Google Scholar",
+        "icon": "🎓",
+        "url": "https://scholar.google.com/citations?user=1U4mT0QAAAAJ&hl=fr"
+    },
+    {
+        "name": "ORCID",
+        "icon": "🆔",
+        "url": "https://orcid.org/0000-0002-3492-8339"
+    },
+    {
+        "name": "Scopus Author ID",
+        "icon": "📚",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=23059863400"
+    },
+    {
+        "name": "Web of Science ResearcherID",
+        "icon": "🔬",
+        "url": "https://www.webofscience.com/wos/author/record/H-2035-2014"
+    },
+    {
+        "name": "ResearchGate",
+        "icon": "🌐",
+        "url": "https://www.researchgate.net/profile/Kamel-Guesmi"
+    },
+    {
+        "name": "LinkedIn",
+        "icon": "💼",
+        "url": "https://www.linkedin.com/in/kamal-guesmi-694692b8/"
+    },
+    {
+        "name": "GitHub",
+        "icon": "💻",
+        "url": "https://github.com/guesmika"
+    },
+    {
+        "name": "DBLP",
+        "icon": "📖",
+        "url": "https://dblp.org/pid/74/6689.html"
+    },
+    {
+        "name": "Semantic Scholar",
+        "icon": "🧠",
+        "url": "https://www.semanticscholar.org/author/Kamel-GUESMI/1987920"
+    },
+    {
+        "name": "Personal Website",
+        "icon": "🏠",
+        "url": "https://guesmika.github.io/my_page/"
+    },
+    {
+        "name": "AD Scientific Index",
+        "icon": "AD",
+        "url": "https://adscientificindex.com/scientist/kamel-guesmi/4316836/"
+    }
+
+]

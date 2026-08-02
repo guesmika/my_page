@@ -1,0 +1,57 @@
+{
+    "name":"Prof. Kamel GUESMI",
+
+    "academicPosition":"Full Professor",
+
+    "institution":"University of Djelfa",
+
+    "biography":"Professor of Computer Enginnering, Automatic Control, and Signal Processing.",
+
+    "researchInterests":[
+        "Nonlinear Control",
+        "Artificial Intelligence",
+        "Power Electronics",
+        "Renewable Energy", "Signal Processing", "Dynamical Systems", "Robotics", "Embedded Systems"
+    ],
+
+    "professionalMemberships":[
+        "Full Professor at University of Djelfa",
+        "Member of the Scientific Council, FST, University of Djelfa",
+        "Member of the Administartion Council,FST, University of Djelfa",
+        "Member of IFAC (International Federation of Automatic Control)",
+        "Member of the CReSTIC, University of Reims Champagne Ardennes, France",
+        "Member of the french research group: Modeling, Analysis and Conduct of Dynamical Systems",
+        "Member of IAENG (International Association of Engineers)"
+    ],
+
+
+    "academicIds":[
+    {
+        "name": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=1U4mT0QAAAAJ&hl=fr"
+    },
+    {
+        "name": "ORCID",
+        "url": "https://orcid.org/0000-0002-3492-8339"
+    },
+    {
+        "name": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Kamel-Guesmi"
+    },
+    {
+        "name": "Scopus",
+        "url": "https://www.scopus.com/authid/detail.uri?authorId=23059863400"
+    },
+    {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/kamal-guesmi-694692b8/"
+    }
+ ]
+
+ ,
+    "photo":"images/myPhoto.jpg",
+
+    "qr":"images/myQr.jpg",
+
+    "cv":"pdfs/cv.pdf"
+}
