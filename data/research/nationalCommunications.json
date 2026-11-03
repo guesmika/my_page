@@ -1,5 +1,10 @@
 [
     {
+        "citation": "M. Maouche, A. Garmat, K. GUESMI, Metaheuristic-Optimized Fractional-Order Control for Precise Joint Trajectory Tracking of a 2-DOF Robotic Manipulator, National Conference on Automation, Robotics, Artificial Intelligence and Electrical Engineering, Boumerdes (Algeria), 14 October 2026.",
+        "doi": "",
+        "pdf": "pdfs/nComs/nc8.pdf"
+    },
+    {
         "citation": "M. Maouche, A. Garmat, K. GUESMI, Robust Trajectory Tracking Control of a Robotic Manipulator Using Fractional Order PID Controller, National Conference on Mechatronic Engineering, Boumerdes (Algeria), 12-13 October 2025.",
         "doi": "",
         "pdf": "pdfs/nComs/nc7.pdf"
